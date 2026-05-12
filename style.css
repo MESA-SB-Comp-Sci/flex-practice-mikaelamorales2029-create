@@ -5,8 +5,15 @@
 .challenge-1 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
-
+}
+.c-1-b1{
+  background-color:red;
+  flex-direction:row;
+}
+.c-1-b2{
+   background-color:blue;
+  flex-direction:row;
+  display:inline-block
 
 }
 
